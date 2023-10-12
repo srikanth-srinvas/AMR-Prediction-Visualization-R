@@ -2,7 +2,7 @@
 AMR Data Analysis &amp; Visualization in R  Explore antimicrobial resistance (AMR) data with R code for filtering, plotting distribution of samples worldwide, prevalence of species over years, and predicting resistance trends. Gain insights into AMR patterns, resistant pathogens, and future trends.
 # Data Analysis and Visualization with R
 
-This repository contains R code for data analysis, visualization, and antimicrobial resistance prediction. The code is organized into separate sections, each focusing on a specific task. Below is a brief overview of each section and its functionality:
+This repository contains the code for our project submitted to the Vivli AMR Data Challenge titled "The ESKAPE threat: A Global Perspective on Epidemiology, Distribution, and Resistance,"
 
 ## Sorting the raw data based on requirement
 - Load required libraries: dplyr, magrittr, tidyr
