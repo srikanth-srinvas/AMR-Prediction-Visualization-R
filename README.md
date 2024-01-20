@@ -3,6 +3,7 @@ AMR Data Analysis &amp; Visualization in R  Explore antimicrobial resistance (AM
 # Data Analysis and Visualization with R
 
 This repository contains the code for our project submitted to the Vivli AMR Data Challenge titled "The ESKAPE threat: A Global Perspective on Epidemiology, Distribution, and Resistance,"
+The Scripts mainly utilise the AMR R package https://github.com/msberends/AMR  
 
 ## Sorting the raw data based on requirement
 - Load required libraries: dplyr, magrittr, tidyr
